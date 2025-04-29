@@ -1,7 +1,7 @@
 # Ex.06 Book Front Cover Page Design
 ## Name:HARESH R
 ## Register Number:21222404007
-## Date:28/04/25
+## Date:29/04/25
 
 ## AIM:
 To design a book front cover page using HTML and CSS.
@@ -117,7 +117,7 @@ Publish the website in the LocalHost.
   
 
 ## OUTPUT:
-``![Screenshot 2025-04-29 123843](https://github.com/user-attachments/assets/fad14f29-97da-4092-b2b5-37b193ee07ac)
+![Screenshot 2025-04-29 123843](https://github.com/user-attachments/assets/7bf7d433-586b-4d98-b3ae-74f15b2d4968)
 
 
 ## RESULT:
