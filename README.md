@@ -1,7 +1,7 @@
 # Ex.06 Book Front Cover Page Design
-## Name:HARESH R
-## Register Number:21222404007
-## Date:29/04/25
+## Name: HARESH R
+## Register Number:212224040097
+## Date:28/04/25
 
 ## AIM:
 To design a book front cover page using HTML and CSS.
@@ -112,12 +112,11 @@ Publish the website in the LocalHost.
     <div class="author">By Priyadharshini G</div>
   </div>
 </body>
-</html>![Screenshot 2025-04-29 123843](https://github.com/user-attachments/assets/a8e6a4f1-6fc7-45a5-8974-31feb16da29e)
-
+</html>
   
-
+```
 ## OUTPUT:
-![Screenshot 2025-04-29 123843](https://github.com/user-attachments/assets/7bf7d433-586b-4d98-b3ae-74f15b2d4968)
+![Screenshot 2025-04-30 101208](https://github.com/user-attachments/assets/7f0cd225-fc89-4bec-9847-b926de9afc21)
 
 
 ## RESULT:
